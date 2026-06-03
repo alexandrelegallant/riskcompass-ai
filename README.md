@@ -1,3 +1,7 @@
+## Live Demo
+
+[Open RiskCompass AI](https://riskcompass-ai-dfy54feghdkphcsg9ov9fv.streamlit.app/)
+
 # 🧭 RiskCompass AI
 ### WA Government Cyber Threat Prioritisation Tool
 > Bloom × CyberWest Hub × WA Office of Digital Government Hackathon
